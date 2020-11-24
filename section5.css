@@ -1,0 +1,34 @@
+
+            .review{
+                display: grid;
+                grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+                grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+                grid-gap: 10px;
+                              
+            }
+            .report{
+                grid-area: 2/2/2/14;
+                font-family: Sailec,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; 
+                font-size: 12px;
+                
+            }
+            .report p{
+                font-size: 12px;
+                line-height: 0px;
+            }
+            .report h5{
+                font-size: 12px;
+                line-height: 0px;
+                font-weight: normal;
+                margin-bottom: 35px;
+            }
+            .reviewImage{
+                grid-area: 2/12/2/13;
+
+            }
+            
+            .review a{
+                color: rgb(90, 153, 224);
+            background-color: whitesmoke;
+
+            }
