@@ -13,13 +13,17 @@
                 
             }
             .report p{
+                line-height: 1.5;
+                list-style-type: none;
+                margin-bottom: .2em;
                 font-size: 12px;
                 line-height: 0px;
             }
             .report h5{
-                font-size: 12px;
+                font-size: 16px;
+                font-weight: 400;
+                letter-spacing: 0;
                 line-height: 0px;
-                font-weight: normal;
                 margin-bottom: 35px;
             }
             .reviewImage{
