@@ -22,7 +22,7 @@
 }
 .section3 a{
     color: rgb(90, 153, 224);
-background-color: whitesmoke;
+background-color: white;
 
 }
 .greenTick{
@@ -32,7 +32,18 @@ background-color: whitesmoke;
     background: 50px transparent;
 }
 
-
+@media only screen and (min-width: 400px) {
+    .lang{
+        grid-area: 1/1;
+    }
+    .support{
+        grid-area: 2/1;
+    }
+    
+    .upload{
+        grid-area: 3/1;
+    }
+}
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     .lang{
