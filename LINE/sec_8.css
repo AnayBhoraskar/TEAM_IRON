@@ -22,6 +22,7 @@ body{
     background-attachment: fixed;
     background-position: center;
     justify-content: center;
+    object-fit: cover;
 } 
 
 /* .starting{
