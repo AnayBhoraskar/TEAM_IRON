@@ -1,2 +1,38 @@
 # TEAM_IRON
 MASAI_TITANS_Unit_1_Project
+# Code_cov_clone
+> This Project is a clone of the website named CodeCov.
+>URL: codecov.io  
+#functionality: CodeCov is a website designed for implement
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Languages](#languages)
+* [Status](#status)
+* [Inspiration](#inspiration)
+
+## General info
+   This project contains clones of web pages of codecov.
+
+## Languages used:
+* HTML
+* CSS
+
+## Status
+Project is: Finished.
+
+## Inspiration
+Project inspired by [title] https://codecov.io/
+
+
+#Annexure
+## Screenshots 
+ 
+ ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Document.png)
+ ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Pricing.png)
+ ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20The%20Leading%20Code%20Coverage%20Solution%20codecov(1).png)
+ ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20The%20Leading%20Code%20Coverage%20Solution%20codecov.png)
+
+
+ 
+ 
