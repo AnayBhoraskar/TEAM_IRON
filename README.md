@@ -27,13 +27,13 @@ Project inspired by [title] https://codecov.io/
 
 #Annexure
 ## Screenshots 
- 
- ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Document.png)
- ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Pricing.png)
- ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20The%20Leading%20Code%20Coverage%20Solution%20codecov(1).png)
- ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20The%20Leading%20Code%20Coverage%20Solution%20codecov.png)
- ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Login.png)
- ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Login(1).png)
+
+   ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20The%20Leading%20Code%20Coverage%20Solution%20codecov.png)
+   ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20The%20Leading%20Code%20Coverage%20Solution%20codecov(1).png)
+  ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Pricing.png)
+  ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Document.png)
+  ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Login.png)
+  ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Login(1).png)
 
 
  
