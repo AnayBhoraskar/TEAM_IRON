@@ -1,7 +1,7 @@
 # Code_cov_clone
 > This Project is a clone of the CodeCov.
->URL: codecov.io  
-#functionality: Codecov is the leading, dedicated code coverage solution. 
+> codecov.io  
+#Codecov is the leading, dedicated code coverage solution. 
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
