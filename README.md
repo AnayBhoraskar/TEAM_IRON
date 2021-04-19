@@ -1,9 +1,7 @@
-# TEAM_IRON
-MASAI_TITANS_Unit_1_Project
 # Code_cov_clone
-> This Project is a clone of the website named CodeCov.
+> This Project is a clone of the CodeCov.
 >URL: codecov.io  
-#functionality: CodeCov is a website designed for implement
+#functionality: Codecov is the leading, dedicated code coverage solution. 
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
