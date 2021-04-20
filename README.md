@@ -44,13 +44,13 @@ Project inspired by [title] https://codecov.io/
    ## Pricing Page
   ![pricing](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Pricing.png)
   
-  ## Contact UsPage
+  ## Contact Us Page
   ![contact](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Document.png)
   
   ## Login Page
   ![login](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Login.png)
   
-  ## Login responsive
+  ## Login responsiveness
   ![login](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Login(1).png)
   
   
