@@ -1,7 +1,7 @@
 # Code_cov_clone
 ## In this  Project we have cloned some web pages of Codecov.
-> codecov.io  
-#Codecov is the leading, dedicated code coverage solution. 
+
+## Codecov is the leading, dedicated code coverage solution. 
 
 ## Table of contents
 
@@ -12,18 +12,18 @@
 * [Inspiration](#inspiration)
 
 
-# Steps to install the project:
+## Steps to install the project:
 
-## Install basic Software:
+### Install basic Software:
 * Install NodeJS
 * Install VS Code
 * Install Git
 
-## Clone the following git repository inside any folder:
+### Clone the following git repository inside any folder:
 
 * https://github.com/AnayBhoraskar/TEAM_IRON
 
-##  Open the cloned git repo in VS Code :
+###  Open the cloned git repo in VS Code :
 
 * #### Go to the folder -> Project_unit_1_evaluation -> Landing_page.html
 * ## open Landing_page.html with live sever or copy the path and paste it in your favourite brower.
