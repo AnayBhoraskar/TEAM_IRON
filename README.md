@@ -3,14 +3,6 @@
 
 ## Codecov is the leading, dedicated code coverage solution. 
 
-## Table of contents
-
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Languages](#languages)
-* [Status](#status)
-* [Inspiration](#inspiration)
-
 
 ## Steps to install the project:
 
@@ -60,6 +52,21 @@ Project inspired by [title] https://codecov.io/
   
   ## Login responsive
   ![login](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Login(1).png)
+  
+  
+  ### Contributors:
+
+* Archana Singh
+
+  * Github : [archana-sing](https://github.com/archana-sing)
+  
+* Anay Bhoraskar
+
+  * Github : [Anay](https://github.com/AnayBhoraskar)
+  
+* Pavithra N
+
+  * Github : [Pavithra](https://github.com/papipavi)
 
 
  
