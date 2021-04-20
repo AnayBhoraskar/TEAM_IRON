@@ -36,7 +36,7 @@ Project inspired by [title] https://codecov.io/
 ## Screenshots 
    
    ##Landing Page
-   ![landing page](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-          26%20The%20Leading%20Code%20Coverage%20Solution%20codecov.png)
+   ![landing page](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20The%20Leading%20Code%20Coverage%20Solution%20codecov.png)
    
    ## Terms Of use Page
    ![terms](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20The%20Leading%20Code%20Coverage%20Solution%20codecov(1).png)
