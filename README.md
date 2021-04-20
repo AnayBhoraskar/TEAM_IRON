@@ -1,23 +1,40 @@
 # Code_cov_clone
-> This Project is a clone of the CodeCov.
+## In this  Project we have cloned some web pages of Codecov.
 > codecov.io  
 #Codecov is the leading, dedicated code coverage solution. 
+
 ## Table of contents
+
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Languages](#languages)
 * [Status](#status)
 * [Inspiration](#inspiration)
 
-## General info
-   This project contains clones of web pages of codecov.
 
-## Languages used:
+# Steps to install the project:
+
+## Install basic Software:
+* Install NodeJS
+* Install VS Code
+* Install Git
+
+## Clone the following git repository inside any folder:
+
+* https://github.com/AnayBhoraskar/TEAM_IRON
+
+##  Open the cloned git repo in VS Code :
+
+* #### Go to the folder -> Project_unit_1_evaluation -> Landing_page.html
+* ## open Landing_page.html with live sever or copy the path and paste it in your favourite brower.
+
+
+
+## Tech Stacks:
 * HTML
 * CSS
 
-## Status
-Project is: Finished.
+
 
 ## Inspiration
 Project inspired by [title] https://codecov.io/
@@ -25,13 +42,24 @@ Project inspired by [title] https://codecov.io/
 
 #Annexure
 ## Screenshots 
-
-   ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20The%20Leading%20Code%20Coverage%20Solution%20codecov.png)
-   ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20The%20Leading%20Code%20Coverage%20Solution%20codecov(1).png)
-  ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Pricing.png)
-  ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Document.png)
-  ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Login.png)
-  ![](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Login(1).png)
+   
+   ##Landing Page
+   ![landing page](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-          26%20The%20Leading%20Code%20Coverage%20Solution%20codecov.png)
+   
+   ## Terms Of use Page
+   ![terms](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20The%20Leading%20Code%20Coverage%20Solution%20codecov(1).png)
+   
+   ## Pricing Page
+  ![pricing](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Pricing.png)
+  
+  ## Contact UsPage
+  ![contact](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Document.png)
+  
+  ## Login Page
+  ![login](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Login.png)
+  
+  ## Login responsive
+  ![login](https://github.com/AnayBhoraskar/TEAM_IRON/blob/main/new_unit_1_evaluation__raedme_images/Screenshot_2020-11-26%20Login(1).png)
 
 
  
